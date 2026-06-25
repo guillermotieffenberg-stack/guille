@@ -1,2 +1,3 @@
 # guille
-Generic
+
+Proyecto Java básico de "Hola Mundo".
